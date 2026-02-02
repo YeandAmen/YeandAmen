@@ -1,9 +1,9 @@
 ## About Me
-I’m passionate about making smart contracts safer by searching for the real world ways things can go wrong. I’m not just interested in theory I want to see how systems can actually fail when there’s real money on the line.
+We are passionate about making smart contracts safer by searching for the real world ways things can go wrong. We are not just interested in theory we crave want to see how systems can actually fail when there’s real money on the line.
 
-What drives me is figuring out how simple choices, overlooked details, or weird corner cases turn into serious security problems. I spend a lot of time digging into contracts, following where the code leads, and watching how tokens and data move, looking for the exact spots where things could break down.
+What drives us is figuring out how simple choices, overlooked details, or weird corner cases turn into serious security problems. We spend a lot of time digging into contracts, following where the code leads, and watching how tokens and data move, looking for the exact spots where things could break down.
 
-For me, it’s not just about spotting bugs. I want to understand the root cause, see how attackers could take advantage of it, and figure out what genuinely makes protocols stronger. Whether through audits, reviews, or responsible disclosure, my goal is to help keep users safe and build more trust in decentralized tech.
+For us, it’s not just about spotting bugs. We want to understand the root cause, see how attackers could take advantage of it, and figure out what genuinely makes protocols stronger. Whether through audits, reviews, or responsible disclosure, our goal is to help keep users safe and build more trust in decentralized tech.
 
 ---
 
