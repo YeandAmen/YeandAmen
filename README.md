@@ -1,95 +1,87 @@
-## Hi there 👋
+## About Me
+I’m passionate about making smart contracts safer by searching for the real world ways things can go wrong. I’m not just interested in theory I want to see how systems can actually fail when there’s real money on the line.
 
-I am a Smart Contract Security Researcher driven by the challenge of building secure and resilient decentralized systems. My expertise lies in identifying critical vulnerabilities in smart contracts, analyzing protocol design flaws, and uncovering real-world exploit paths.
+What drives me is figuring out how simple choices, overlooked details, or weird corner cases turn into serious security problems. I spend a lot of time digging into contracts, following where the code leads, and watching how tokens and data move, looking for the exact spots where things could break down.
 
-I am committed to delivering thorough audits and responsible disclosures that strengthen protocol security, user trust, and long-term sustainability in decentralized technologies.
-
----
-
-## 🌐 Socials
-
-- **HackenProof:** https://hackenproof.com/hackers/YeandAmen  
-- **GitHub:** https://github.com/YeandAmen  
+For me, it’s not just about spotting bugs. I want to understand the root cause, see how attackers could take advantage of it, and figure out what genuinely makes protocols stronger. Whether through audits, reviews, or responsible disclosure, my goal is to help keep users safe and build more trust in decentralized tech.
 
 ---
 
-## ✅ Audit Portfolio
+## Socials
 
-### 📊 Overall Findings Summary
+- HackenProof: https://hackenproof.com/hackers/YeandAmen  
+- GitHub: https://github.com/YeandAmen  
+
+---
+
+## Audit Portfolio
+
+### Overall Findings Summary
 
 | Overall | Critical Risk | High Risk | Medium Risk | Low Risk | Info |
-|-------|---------------|-----------|-------------|----------|------|
-| **34 Findings** | 3 | 12 | 12 | 5 | 2 |
-
-> Counts include public contests, first-flight audits, private audits, and HackenProof disclosures.
+|--------|---------------|-----------|-------------|----------|------|
+| **34 Findings** | 3 | 11 | 10 | 8 | 2 |
 
 ---
 
-## 🏆 Contests
+## Contests
 
-| Contest Name | High | Medium | Low | Platform | Report Link |
-|-------------|------|--------|-----|----------|-------------|
-| BELONG Smart Contract Audit | - | 1 | - | Public Contest | Report |
-| Blackhole | - | - | 1 | Public Contest | Report |
-| Blockz Smart Contract Audit | - | - | 3 | Public Contest | Report |
-| Index Fun Order Book | - | 1 | - | Public Contest | Report |
-| DCA Smart Contract Audit | 1 | 1 | - | Public Contest | Report |
-| Alignerz 4 | 2 | 2 | - | Public Contest | Report |
+| Contest Name                 | Critical | High | Medium | Low | Visibility    | Platform    |
+|-----------------------------|----------|------|--------|-----|---------------|-------------|
+| BELONG Smart Contract Audit | 1        | -    | 1      | -   | Public Contest| Immunefi    |
+| Blackhole                   | -        | -    | -      | 1   | Public Contest| Code4rena   |
+| Blockz Smart Contract Audit | -        | -    | -      | 3   | Public Contest| HackenProof |
+| Index Fun Order Book        | -        | -    | 1      | -   | Public Contest| Sherlock    |
+| DCA Smart Contract Audit    | -        | 1    | 1      | -   | Public Contest| Sherlock    |
+| Alignerz 4                  | -        | 3    | 1      | -   | Public Contest| Dualguard   |
 
-**Total Contest Findings: 13**
+**Total Contest Findings: 10 (plus 1 Critical) — HackenProof excluded**
 
 ---
 
-## 🚀 First-Flight Audits
+## First-Flight Audits
 
-| Project Name | High | Medium | Low | Platform | Report Link |
-|-------------|------|--------|-----|----------|-------------|
-| Weather_Witness | 3 | - | - | First-Flight | Report |
+| Project Name     | High | Medium | Low | Platform     |
+|-----------------|------|--------|-----|--------------|
+| Weather_Witness | 3    | -      | -   | First-Flight |
 
 **Total First-Flight Findings: 3**
 
 ---
 
-## 🔒 Private Audits
+## Private Audits
 
-| Project Name | Critical | High | Medium | Low | Info | Report Link |
-|--------------|----------|------|--------|-----|------|-------------|
-| ODDSHOT V1 | - | 2 | 2 | 2 | 2 | Audit Report |
-| PowerProtocol | 2 | 2 | 4 | 2 | - | Audit Report |
+| Project Name  | Critical | High | Medium | Low | Info | Visibility   |
+|---------------|----------|------|--------|-----|------|--------------|
+| ODDSHOT V1    | -        | 2    | 2      | 2   | 2    | Public Audit |
+| PowerProtocol | 2        | 2    | 4      | 2   | -    | Public Audit |
 
 **Total Private Audit Findings: 18**
 
 ---
 
-## 🧠 Vulnerability Disclosure
+## Vulnerability Disclosure
 
-| Platform | Findings |
-|--------|----------|
-| HackenProof | 11 |
+| Platform    | Findings | Visibility |
+|------------|----------|------------|
+| HackenProof| 11       | Hidden     |
 
 Profile: https://hackenproof.com/hackers/YeandAmen
 
 ---
 
-## 📌 Notes
+## Notes
 
-- All findings are verifiable and responsibly disclosed  
-- Severity classification follows audit or disclosure standards  
+- All findings listed are verifiable and responsibly disclosed  
+- Severity classifications follow audit and disclosure standards  
 - Private audit details are summarized to respect confidentiality  
 
 ---
 
-### 📍 Pinned Repositories (Recommended)
+## Contact
 
-- **Past-Audit-Findings**  
-- **Audit Reports**
+- **Email**: `yeandamen.research@yahoo.com`  
+- **Twitter**: `@yeandamen`  
+- **Telegram**: `@ye_and_amen`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
