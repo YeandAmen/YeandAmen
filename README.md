@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!--
-**YeandAmen/YeandAmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-## 👋 About Me
-
 I am a Smart Contract Security Researcher driven by the challenge of building secure and resilient decentralized systems. My expertise lies in identifying critical vulnerabilities in smart contracts, analyzing protocol design flaws, and uncovering real-world exploit paths.
 
 I am committed to delivering thorough audits and responsible disclosures that strengthen protocol security, user trust, and long-term sustainability in decentralized technologies.
