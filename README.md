@@ -1,11 +1,5 @@
 ## About Us💫
-We are passionate about making smart contracts safer by searching for the real world ways things can go wrong. We are not just interested in theory we crave want to see how systems can actually fail when there’s real money on the line.
-
-What drives us is figuring out how simple choices, overlooked details, or weird corner cases turn into serious security problems. We spend a lot of time digging into contracts, following where the code leads, and watching how tokens and data move, looking for the exact spots where things could break down.
-
-For us, it’s not just about spotting bugs. We want to fully understand the root cause, see how attackers could take advantage of it, and figure out what genuinely makes protocols stronger. Whether through audits, reviews, or responsible disclosure, our goal is to help keep users safe and build more trust in decentralized tech.
-
----
+I guess?
 
 ## Socials
 
