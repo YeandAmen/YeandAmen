@@ -1,4 +1,4 @@
-## About Us💫
+## About Us
 I guess?
 
 ## Socials
@@ -72,10 +72,3 @@ Profile: https://hackenproof.com/hackers/YeandAmen
 
 ---
 
-## Contact
-
-- **Email**: `yeandamen.research@yahoo.com`  
-- **Twitter**: `@yeandamen`  
-- **Telegram**: `@ye_and_amen`  
-
----
