@@ -18,11 +18,11 @@ Public writeups and corresponding fixes. The date column shows the month the fix
 
 **MultiversX timeline (UTC):** Report gist created **12 August 2026 at 16:17:47**; fix commit dated **14 August 2026 at 13:08:45**; associated PR merged into `main` **7 September 2026 at 07:44:22**. The fix disables value-record operations in both affected DHT discoverers.
 
-### Private Disclosures
+### Acknowledged Disclosures
 
-| Project | Status | Details |
-|---------|--------|---------|
-| Osmosis | Privately reported; receipt acknowledged | Report and correspondence remain private. |
+| Project | Status | References |
+|---------|--------|------------|
+| Osmosis | Report acknowledged; fix private | [Report: unrecovered panic in MEV bundle processing](https://gist.github.com/YeandAmen/0cbd7a9df6d573c0080854f53cbb3caf) |
 
 ---
 
