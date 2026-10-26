@@ -8,6 +8,18 @@ I guess?
 
 ---
 
+## Selected Disclosures
+
+Public writeups and corresponding fixes. The date column shows the month the fix was merged.
+
+| Date | Project | Vulnerability | Status | References |
+|------|---------|---------------|--------|------------|
+| 2026-09 | MultiversX | Unbounded Kad-DHT `/pk/` record storage: a connected peer could submit valid public-key records for unrelated identities, causing sustained memory growth and potential denial of service. | Fixed in the verified v1.4.1 communication library, included in node v2.1.7 | [Report](https://gist.github.com/YeandAmen/fd4431b5b22222dcb3f266dd7464f5a8) · [Fix](https://github.com/multiversx/mx-chain-communication-go/commit/6820c97770587a13f288bb3591028a95101e4b8e) · [Merged PR](https://github.com/multiversx/mx-chain-communication-go/pull/76) |
+
+**MultiversX timeline (UTC):** Report gist created **12 August 2026 at 16:17:47**; fix commit dated **14 August 2026 at 13:08:45**; associated PR merged into `main` **7 September 2026 at 07:44:22**. The fix disables value-record operations in both affected DHT discoverers. These are source and release findings, not a claim that every deployed node has upgraded.
+
+---
+
 ## Audit Portfolio
 
 ### Overall Findings Summary
