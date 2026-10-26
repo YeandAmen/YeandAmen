@@ -30,9 +30,11 @@ Public writeups and corresponding fixes. The date column shows the month the fix
 
 ### Overall Findings Summary
 
-| Overall        | Critical Risk | High Risk | Medium Risk | Low Risk | Info |
-|---------------|---------------|-----------|-------------|----------|------|
-| **45 Findings** | 6           | 15        | 11          | 11       | 2    |
+| Overall | Critical Risk | High Risk | Medium Risk | Low Risk | Info | Unclassified |
+|---------|---------------|-----------|-------------|----------|------|--------------|
+| **47 Findings** | 6 | 15 | 12 | 11 | 2 | 1 |
+
+Includes the MultiversX and Osmosis disclosures above. Osmosis is counted as Medium according to the report; MultiversX is counted as unclassified pending severity confirmation.
 
 ---
 
