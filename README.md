@@ -34,8 +34,6 @@ Public writeups and corresponding fixes. The date column shows the month the fix
 |---------|---------------|-----------|-------------|----------|------|--------------|
 | **47 Findings** | 6 | 15 | 12 | 11 | 2 | 1 |
 
-Includes the MultiversX and Osmosis disclosures above. Osmosis is counted as Medium according to the report; MultiversX is counted as unclassified pending severity confirmation.
-
 ---
 
 ## Contests
