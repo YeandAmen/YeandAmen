@@ -17,14 +17,6 @@ I work across cybersecurity, Web3 security research, and AI engineering. My publ
 
 ---
 
-## Selected Projects
-
-- [SOC Playground](https://github.com/YeandAmen/SOC-Playground) — Reproducible security operations lab using Splunk, Windows and Kali endpoints, Sysmon telemetry, detection searches, and a live trace console.
-- [Radwave](https://github.com/YeandAmen/radwave) — Go-powered opportunity discovery app with a crawler and dashboard for jobs, scholarships, grants, fellowships, internships, and competitions. [Live app](https://radwave.vercel.app).
-- [Sinnogram](https://github.com/YeandAmen/sinnogram) — Trip-planning app that organizes multi-stop journeys and helps reduce backtracking. [Open beta](https://sinnogram.vercel.app).
-- [Twitter Opportunity Scraper](https://github.com/YeandAmen/twitter-scrapper) — Go service and CLI for collecting opportunities and serving them through an API or email digest.
-- [Audit Findings](https://github.com/YeandAmen/Audit-Findings-) — Public repository of smart-contract audit findings.
-
 ---
 
 ## Selected Disclosures
