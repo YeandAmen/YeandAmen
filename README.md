@@ -1,4 +1,3 @@
-# Alfredrick Ofodile
 
 **Cybersecurity Analyst · Web3 Security (2 years) · AI Engineer**
 
