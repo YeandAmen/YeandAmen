@@ -6,10 +6,6 @@ I work across cybersecurity, Web3 security research, and AI engineering. My publ
 
 **Certification:** Cybersecurity — 22 October 2026.
 
-### Cybersecurity Certificate
-
-![Cybersecurity Certificate — TechCrush, 22 October 2026](assets/cybersecurity-certificate.png)
-
 ## Socials
 
 - [HackenProof](https://hackenproof.com/hackers/YeandAmen)
@@ -90,3 +86,9 @@ Profile: https://hackenproof.com/hackers/YeandAmen
 - All findings listed are verifiable and responsibly disclosed.
 - Severity classifications follow audit and disclosure standards.
 - Private audit details are summarized to respect confidentiality.
+
+---
+
+### Cybersecurity Certificate
+
+![Cybersecurity Certificate — TechCrush, 22 October 2026](assets/cybersecurity-certificate.png)
