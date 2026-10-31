@@ -10,6 +10,7 @@ I work across cybersecurity, Web3 security research, and AI engineering. My publ
 
 - [HackenProof](https://hackenproof.com/hackers/YeandAmen)
 - [GitHub](https://github.com/YeandAmen)
+- [X](https://x.com/yeandamen)
 
 ---
 
