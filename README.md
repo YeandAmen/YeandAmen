@@ -1,10 +1,25 @@
-## About Us
-I guess?
+# Alfredrick Ofodile
+
+**Cybersecurity Analyst · Web3 Security (2 years) · AI Engineer**
+
+I work across cybersecurity, Web3 security research, and AI engineering. My public work includes security disclosures, audit findings, a reproducible SOC lab, and software projects.
+
+**Certification:** Cybersecurity — 22 October 2026.
 
 ## Socials
 
-- HackenProof: https://hackenproof.com/hackers/YeandAmen  
-- GitHub: https://github.com/YeandAmen  
+- [HackenProof](https://hackenproof.com/hackers/YeandAmen)
+- [GitHub](https://github.com/YeandAmen)
+
+---
+
+## Selected Projects
+
+- [SOC Playground](https://github.com/YeandAmen/SOC-Playground) — Reproducible security operations lab using Splunk, Windows and Kali endpoints, Sysmon telemetry, detection searches, and a live trace console.
+- [Radwave](https://github.com/YeandAmen/radwave) — Go-powered opportunity discovery app with a crawler and dashboard for jobs, scholarships, grants, fellowships, internships, and competitions. [Live app](https://radwave.vercel.app).
+- [Sinnogram](https://github.com/YeandAmen/sinnogram) — Trip-planning app that organizes multi-stop journeys and helps reduce backtracking. [Open beta](https://sinnogram.vercel.app).
+- [Twitter Opportunity Scraper](https://github.com/YeandAmen/twitter-scrapper) — Go service and CLI for collecting opportunities and serving them through an API or email digest.
+- [Audit Findings](https://github.com/YeandAmen/Audit-Findings-) — Public repository of smart-contract audit findings.
 
 ---
 
@@ -34,24 +49,20 @@ Public writeups and corresponding fixes. The date column shows the month the fix
 |---------|---------------|-----------|-------------|----------|------|--------------|
 | **47 Findings** | 6 | 15 | 12 | 11 | 2 | 1 |
 
----
+### Contests
 
-## Contests
-
-| Contest Name                 | Critical | High | Medium | Low | Visibility    | Platform    |
-|-----------------------------|----------|------|--------|-----|---------------|-------------|
-| BELONG Smart Contract Audit | 1        | -    | 1      | -   | Public Contest| Immunefi    |
-| Blackhole                   | -        | -    | -      | 1   | Public Contest| Code4rena   |
-| Blockz Smart Contract Audit | -        | -    | -      | 3   | Public Contest| HackenProof |
-| Index Fun Order Book        | -        | -    | 1      | -   | Public Contest| Sherlock    |
-| DCA Smart Contract Audit    | -        | 1    | 1      | -   | Public Contest| Sherlock    |
-| Alignerz 4                  | -        | 3    | 1      | -   | Public Contest| Dualguard   |
+| Contest Name                 | Critical | High | Medium | Low | Visibility     | Platform    |
+|-----------------------------|----------|------|--------|-----|----------------|-------------|
+| BELONG Smart Contract Audit | 1        | -    | 1      | -   | Public Contest | Immunefi    |
+| Blackhole                   | -        | -    | -      | 1   | Public Contest | Code4rena   |
+| Blockz Smart Contract Audit | -        | -    | -      | 3   | Public Contest | HackenProof |
+| Index Fun Order Book        | -        | -    | 1      | -   | Public Contest | Sherlock    |
+| DCA Smart Contract Audit    | -        | 1    | 1      | -   | Public Contest | Sherlock    |
+| Alignerz 4                  | -        | 3    | 1      | -   | Public Contest | Dualguard   |
 
 **Total Contest Findings: 10 (plus 1 Critical) — HackenProof excluded**
 
----
-
-## First-Flight Audits
+### First-Flight Audits
 
 | Project Name     | High | Medium | Low | Platform     |
 |-----------------|------|--------|-----|--------------|
@@ -59,9 +70,7 @@ Public writeups and corresponding fixes. The date column shows the month the fix
 
 **Total First-Flight Findings: 3**
 
----
-
-## Private Audits
+### Private Audits
 
 | Project Name  | Critical | High | Medium | Low | Info | Visibility   |
 |---------------|----------|------|--------|-----|------|--------------|
@@ -70,13 +79,11 @@ Public writeups and corresponding fixes. The date column shows the month the fix
 
 **Total Private Audit Findings: 18**
 
----
+### Vulnerability Disclosure
 
-## Vulnerability Disclosure
-
-| Platform    | Findings | Visibility |
-|------------|----------|------------|
-| HackenProof| 11       | Hidden     |
+| Platform     | Findings | Visibility |
+|-------------|----------|------------|
+| HackenProof | 11       | Hidden     |
 
 Profile: https://hackenproof.com/hackers/YeandAmen
 
@@ -84,9 +91,6 @@ Profile: https://hackenproof.com/hackers/YeandAmen
 
 ## Notes
 
-- All findings listed are verifiable and responsibly disclosed  
-- Severity classifications follow audit and disclosure standards  
-- Private audit details are summarized to respect confidentiality  
-
----
-
+- All findings listed are verifiable and responsibly disclosed.
+- Severity classifications follow audit and disclosure standards.
+- Private audit details are summarized to respect confidentiality.
