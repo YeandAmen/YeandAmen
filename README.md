@@ -3,8 +3,6 @@
 
 I work across cybersecurity, Web3 security research, and AI engineering. My public work includes security disclosures, audit findings, a reproducible SOC lab, and software projects.
 
-**Certification:** Cybersecurity — 22 October 2026.
-
 ## Socials
 
 - [HackenProof](https://hackenproof.com/hackers/YeandAmen)
