@@ -3,21 +3,6 @@
 
 I work across cybersecurity, Web3 security research, and AI engineering. My public work includes security disclosures, audit findings, a reproducible SOC lab, and software projects.
 
-These are my I's:
-
-I love to use Go for substantial backend work.
-
-I like to think about data ingestion and normalization.
-
-I work with persistent storage.
-
-I consider deployment architecture.
-
-I build algorithmic solutions rather than relying entirely on libraries.
-
-Love to write tests that examine actual correctness.
-
-I generally think about external service limitations.
 
 ## Socials
 
@@ -26,7 +11,6 @@ I generally think about external service limitations.
 - [X](https://x.com/yeandamen)
 
 ---
-
 ---
 
 ## Selected Disclosures
