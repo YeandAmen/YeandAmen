@@ -3,7 +3,7 @@
 
 I work across cybersecurity, Web3 security research, and AI engineering. My public work includes security disclosures, audit findings, a reproducible SOC lab, and software projects.
 
-I'll like to think these are my perks:
+These are my I's:
 
 I love to use Go for substantial backend work.
 
