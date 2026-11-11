@@ -1,6 +1,6 @@
 ![YeandAmen — Security research · Web3 · AI engineering](assets/yeandamen-banner.svg)
 
-I'm **Chukwudera Ofodile**. I research security across AI systems and Web3, build useful software, and share what I learn.
+I'm **YeandAmen**. I research security across AI systems and Web3, build useful software, and share what I learn.
 
 [HackenProof](https://hackenproof.com/hackers/YeandAmen) · [X](https://x.com/yeandamen) · [Telegram](https://t.me/yeandamen) · [GitHub](https://github.com/YeandAmen)
 
@@ -8,15 +8,9 @@ I'm **Chukwudera Ofodile**. I research security across AI systems and Web3, buil
 
 | Project | Finding | Status | Read more |
 | :--- | :--- | :--- | :--- |
-| **Grok / xAI** | Python startup-hook persistence after execution of an uploaded archive | Fixed — researcher-reported | [Write-up](disclosures/grok-python-startup-persistence/README.md) · [Video](https://github.com/YeandAmen/YeandAmen/releases/download/grok-disclosure-2026-06/grok-runtime-persistence-demo.mp4) |
+| **Grok / xAI** | Python startup-hook persistence after execution of an uploaded archive | Fixed — researcher-reported | [Write-up](disclosures/grok-python-startup-persistence/README.md) |
 | **MultiversX** | Unbounded Kad-DHT public-key record storage and memory growth | Fixed in communication library v1.4.1; included in node v2.1.7 | [Report](https://gist.github.com/YeandAmen/fd4431b5b22222dcb3f266dd7464f5a8) · [Fix](https://github.com/multiversx/mx-chain-communication-go/commit/6820c97770587a13f288bb3591028a95101e4b8e) · [PR](https://github.com/multiversx/mx-chain-communication-go/pull/76) |
 | **Osmosis** | Unrecovered panic in MEV bundle processing | Acknowledged; fix private | [Report](https://gist.github.com/YeandAmen/0cbd7a9df6d573c0080854f53cbb3caf) |
-
-### Grok · recorded demonstration
-
-[![Watch the Grok runtime persistence demonstration](assets/grok-runtime-persistence.jpg)](https://github.com/YeandAmen/YeandAmen/releases/download/grok-disclosure-2026-06/grok-runtime-persistence-demo.mp4)
-
-[Watch video](https://github.com/YeandAmen/YeandAmen/releases/download/grok-disclosure-2026-06/grok-runtime-persistence-demo.mp4) · [Read the disclosure](disclosures/grok-python-startup-persistence/README.md)
 
 <details>
 <summary>MultiversX disclosure timeline</summary>
@@ -85,10 +79,3 @@ Private audit details are summarized to respect confidentiality.
 | [SOC Playground](https://github.com/YeandAmen/SOC-Playground) | A reproducible security lab with attack simulations and detection workflows. |
 | [Audit Findings](https://github.com/YeandAmen/Audit-Findings-) | A collection of smart contract security findings. |
 | [Radwave](https://github.com/YeandAmen/radwave) | A Go project for discovering opportunities from public sources. |
-
-<details>
-<summary>Cybersecurity certificate · TechCrush</summary>
-
-![Cybersecurity Certificate — TechCrush, 22 October 2026](assets/cybersecurity-certificate.png)
-
-</details>

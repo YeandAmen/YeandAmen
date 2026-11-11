@@ -1,6 +1,6 @@
 # Grok: Python startup-hook persistence
 
-**Researcher:** Chukwudera Ofodile · [YeandAmen](https://github.com/YeandAmen)  
+**Researcher:** [YeandAmen](https://github.com/YeandAmen)  
 **Status:** Fixed, as confirmed by the researcher following private disclosure to xAI.  
 **Report date:** 16 June 2026
 
@@ -11,12 +11,6 @@ During testing of Grok's code interpreter, an uploaded ZIP led the assistant to 
 The script installed a `usercustomize.py` module. Python can automatically import this module during startup when the user-site mechanism is enabled. Subsequent Python processes in the same environment therefore executed the added code without a new, explicit request to run that module.
 
 The recorded demonstration shows the module being installed, a new Python subprocess starting, and process environment information appearing in its error output. The module remained in place afterward.
-
-## Demonstration
-
-[![Watch the recorded demonstration](../../assets/grok-runtime-persistence.jpg)](https://github.com/YeandAmen/YeandAmen/releases/download/grok-disclosure-2026-06/grok-runtime-persistence-demo.mp4)
-
-[Watch or download the video](https://github.com/YeandAmen/YeandAmen/releases/download/grok-disclosure-2026-06/grok-runtime-persistence-demo.mp4). Environment values are covered in this public copy; the original recording is preserved separately.
 
 ## Why it mattered
 
