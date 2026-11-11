@@ -12,6 +12,10 @@ The script installed a `usercustomize.py` module. Python can automatically impor
 
 The recorded demonstration shows the module being installed, a new Python subprocess starting, and process environment information appearing in its error output. The module remained in place afterward.
 
+## Demonstration
+
+https://github.com/user-attachments/assets/50032307-699f-472e-ad1b-dfbbdacb85d8
+
 ## Why it mattered
 
 A single execution could change later Python invocations within the tested session. That allowed earlier uploaded code to influence future output and expose information available inside that environment.

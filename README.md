@@ -12,6 +12,10 @@ I'm **YeandAmen**. I research security across AI systems and Web3, build useful 
 | **MultiversX** | Unbounded Kad-DHT public-key record storage and memory growth | Fixed in communication library v1.4.1; included in node v2.1.7 | [Report](https://gist.github.com/YeandAmen/fd4431b5b22222dcb3f266dd7464f5a8) · [Fix](https://github.com/multiversx/mx-chain-communication-go/commit/6820c97770587a13f288bb3591028a95101e4b8e) · [PR](https://github.com/multiversx/mx-chain-communication-go/pull/76) |
 | **Osmosis** | Unrecovered panic in MEV bundle processing | Acknowledged; fix private | [Report](https://gist.github.com/YeandAmen/0cbd7a9df6d573c0080854f53cbb3caf) |
 
+### Grok · recorded demonstration
+
+https://github.com/user-attachments/assets/50032307-699f-472e-ad1b-dfbbdacb85d8
+
 <details>
 <summary>MultiversX disclosure timeline</summary>
 
