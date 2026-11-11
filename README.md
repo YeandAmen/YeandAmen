@@ -77,9 +77,18 @@ Private audit details are summarized to respect confidentiality.
 
 ## Things I build
 
-| Project | What it does |
+I build tools for problems I run into: repetitive YouTube work, scattered opportunities, trips across Abuja, and making security easier to understand.
+
+| Project | Why I built it |
 | :--- | :--- |
-| [Tinker](https://tinker-video.vercel.app) | A workspace for turning scripts into storyboards and videos. |
-| [SOC Playground](https://github.com/YeandAmen/SOC-Playground) | A reproducible security lab with attack simulations and detection workflows. |
-| [Audit Findings](https://github.com/YeandAmen/Audit-Findings-) | A collection of smart contract security findings. |
-| [Radwave](https://github.com/YeandAmen/radwave) | A Go project for discovering opportunities from public sources. |
+| [Tinker](https://tinker-video.vercel.app) | Easier YouTube video automation. I got tired of copying prompts, generating images, keeping characters consistent, and assembling everything manually—so I built a studio and Chrome extension to handle the repetitive work, from script and scenes to a finished video. |
+| [Underdog](https://github.com/YeandAmen/underdog) · [Demo](https://underdog-fyield1.vercel.app) | Helps office teams understand who has access, spot suspicious activity, and investigate threats. Accounts, access checks, alerts, evidence, and AI reports come together in one workspace. |
+| [Sinnogram](https://github.com/YeandAmen/sinnogram) · [Try it](https://sinnogram.vercel.app) | Plans a better order for stops around Abuja, so errands mean less backtracking. Compare driving routes, keep an itinerary, and open each leg in your maps app. |
+| [Fyield](https://github.com/YeandAmen/whisk-n-wizzle) | Makes local skills easier to find in Abuja. A service directory where people can discover providers, see their work, and send enquiries—from cleaners and mechanics to hairdressers and carers. |
+| [Radwave](https://github.com/YeandAmen/radwave) · [Try it](https://radwave.vercel.app) | Brings jobs, scholarships, grants, fellowships, and other opportunities into one searchable workspace, with a globe explorer, shortlists, deadlines, and sources from LinkedIn, RSS, publishers, and X. |
+| [SOC Playground](https://github.com/YeandAmen/SOC-Playground) | A reproducible Splunk security lab for practising attack detection with Windows and Kali telemetry, simulations, and a live trace console. |
+| [Pre-Req Vault](https://github.com/YeandAmen/pre-req-vault) | A Solana vault project with deposits, withdrawals, account closure, and a cross-program registration flow. |
+| [X Opportunity Scraper](https://github.com/YeandAmen/X) | My original Go service for finding opportunities on Twitter/X, with an API and email digests. Its ingestion workflow is now part of Radwave. |
+| [Audit Findings](https://github.com/YeandAmen/Audit-Findings-) | Shared smart contract security research documenting vulnerabilities found through group analysis of protocols and DeFi systems. |
+
+[Explore my repositories →](https://github.com/YeandAmen?tab=repositories)
