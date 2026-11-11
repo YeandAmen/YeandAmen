@@ -1,42 +1,38 @@
+![YeandAmen — Security research · Web3 · AI engineering](assets/yeandamen-banner.svg)
 
-**Cybersecurity Analyst · Web3 Security (2 years) · AI Engineer**
+I'm **Chukwudera Ofodile**. I research security across AI systems and Web3, build useful software, and share what I learn.
 
-I work across cybersecurity, Web3 security research, and AI engineering. My public work includes security disclosures, audit findings, a reproducible SOC lab, and software projects.
+[HackenProof](https://hackenproof.com/hackers/YeandAmen) · [X](https://x.com/yeandamen) · [Telegram](https://t.me/yeandamen) · [GitHub](https://github.com/YeandAmen)
 
+## Selected disclosures
 
-## Socials
+| Project | Finding | Status | Read more |
+| :--- | :--- | :--- | :--- |
+| **Grok / xAI** | Python startup-hook persistence after execution of an uploaded archive | Fixed — researcher-reported | [Write-up](disclosures/grok-python-startup-persistence/README.md) · [Video](https://github.com/YeandAmen/YeandAmen/releases/download/grok-disclosure-2026-06/grok-runtime-persistence-demo.mp4) |
+| **MultiversX** | Unbounded Kad-DHT public-key record storage and memory growth | Fixed in communication library v1.4.1; included in node v2.1.7 | [Report](https://gist.github.com/YeandAmen/fd4431b5b22222dcb3f266dd7464f5a8) · [Fix](https://github.com/multiversx/mx-chain-communication-go/commit/6820c97770587a13f288bb3591028a95101e4b8e) · [PR](https://github.com/multiversx/mx-chain-communication-go/pull/76) |
+| **Osmosis** | Unrecovered panic in MEV bundle processing | Acknowledged; fix private | [Report](https://gist.github.com/YeandAmen/0cbd7a9df6d573c0080854f53cbb3caf) |
 
-- [HackenProof](https://hackenproof.com/hackers/YeandAmen)
-- [GitHub](https://github.com/YeandAmen)
-- [X](https://x.com/yeandamen)
+### Grok · recorded demonstration
 
----
+[![Watch the Grok runtime persistence demonstration](assets/grok-runtime-persistence.jpg)](https://github.com/YeandAmen/YeandAmen/releases/download/grok-disclosure-2026-06/grok-runtime-persistence-demo.mp4)
 
-## Selected Disclosures
+[Watch video](https://github.com/YeandAmen/YeandAmen/releases/download/grok-disclosure-2026-06/grok-runtime-persistence-demo.mp4) · [Read the disclosure](disclosures/grok-python-startup-persistence/README.md)
 
-Public writeups and corresponding fixes. The date column shows the month the fix was merged.
+<details>
+<summary>MultiversX disclosure timeline</summary>
 
-| Date | Project | Vulnerability | Status | References |
-|------|---------|---------------|--------|------------|
-| 2026-09 | MultiversX | Unbounded Kad-DHT `/pk/` record storage: a connected peer could submit valid public-key records for unrelated identities, causing sustained memory growth and potential denial of service. | Fixed in the verified v1.4.1 communication library, included in node v2.1.7 | [Report](https://gist.github.com/YeandAmen/fd4431b5b22222dcb3f266dd7464f5a8) · [Fix](https://github.com/multiversx/mx-chain-communication-go/commit/6820c97770587a13f288bb3591028a95101e4b8e) · [Merged PR](https://github.com/multiversx/mx-chain-communication-go/pull/76) |
+All times UTC. Report gist created **12 August 2026 at 16:17:47**; fix commit dated **14 August 2026 at 13:08:45**; associated PR merged into `main` **7 September 2026 at 07:44:22**. The fix disables value-record operations in both affected DHT discoverers.
 
-**MultiversX timeline (UTC):** Report gist created **12 August 2026 at 16:17:47**; fix commit dated **14 August 2026 at 13:08:45**; associated PR merged into `main` **7 September 2026 at 07:44:22**. The fix disables value-record operations in both affected DHT discoverers.
+</details>
 
-### Acknowledged Disclosures
+## Findings portfolio
 
-| Project | Status | References |
-|---------|--------|------------|
-| Osmosis | Report acknowledged; fix private | [Report: unrecovered panic in MEV bundle processing](https://gist.github.com/YeandAmen/0cbd7a9df6d573c0080854f53cbb3caf) |
+| Total | Critical | High | Medium | Low | Info | Unclassified |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **47** | 6 | 15 | 12 | 11 | 2 | 1 |
 
----
-
-## Audit Portfolio
-
-### Overall Findings Summary
-
-| Overall | Critical Risk | High Risk | Medium Risk | Low Risk | Info | Unclassified |
-|---------|---------------|-----------|-------------|----------|------|--------------|
-| **47 Findings** | 6 | 15 | 12 | 11 | 2 | 1 |
+<details>
+<summary>Explore contests, audits, and disclosures</summary>
 
 ### Contests
 
@@ -76,16 +72,23 @@ Public writeups and corresponding fixes. The date column shows the month the fix
 
 Profile: https://hackenproof.com/hackers/YeandAmen
 
----
 
-## Notes
+Private audit details are summarized to respect confidentiality.
 
-- All findings listed are verifiable and responsibly disclosed.
-- Severity classifications follow audit and disclosure standards.
-- Private audit details are summarized to respect confidentiality.
+</details>
 
----
+## Things I build
 
-### Cybersecurity Certificate
+| Project | What it does |
+| :--- | :--- |
+| [Tinker](https://tinker-video.vercel.app) | A workspace for turning scripts into storyboards and videos. |
+| [SOC Playground](https://github.com/YeandAmen/SOC-Playground) | A reproducible security lab with attack simulations and detection workflows. |
+| [Audit Findings](https://github.com/YeandAmen/Audit-Findings-) | A collection of smart contract security findings. |
+| [Radwave](https://github.com/YeandAmen/radwave) | A Go project for discovering opportunities from public sources. |
+
+<details>
+<summary>Cybersecurity certificate · TechCrush</summary>
 
 ![Cybersecurity Certificate — TechCrush, 22 October 2026](assets/cybersecurity-certificate.png)
+
+</details>
