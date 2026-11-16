@@ -17,7 +17,6 @@ Here’s what I’ve been building.
 | **Underdog** | Helps office teams see who has access to their systems and investigate suspicious activity. Access checks, alerts, evidence and reports sit in the same workspace. |
 | **Radwave** | Collects jobs, scholarships, grants, fellowships and other opportunities from scattered sources. People can search them, keep a shortlist and track deadlines. It also includes the ingestion work from my earlier X Opportunity Scraper. |
 | **Sinnogram** | Plans the order of stops around Abuja to cut down on backtracking. It compares driving routes, keeps an itinerary and lets you open each leg in your maps app. |
-| **ALPHA DUKE** | A toolkit I use for smart contract research. It gathers contract code and context, screens for vulnerability patterns and prepares material for deeper analysis and exploit testing. |
 | **SOC Playground** | A Splunk lab for practising attack detection using Windows and Kali telemetry. It includes attack simulations, detections and a console for following the traces. |
 
 ## Selected disclosures
