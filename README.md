@@ -25,7 +25,7 @@ I’m **Alfredrick**, also known as **YeandAmen**. I build software and research
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>Idea Economy</h3>
+<h3>Onda</h3>
 <p><sub>IDEAS &amp; LICENSING</sub></p>
 <p>A place to publish original ideas, set usage terms and find someone to build them. I’m developing pricing around views and likes, measured over 15 days with a buyer-agreed spending cap.</p>
 </td>
