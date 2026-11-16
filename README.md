@@ -2,7 +2,7 @@
   <img src="assets/profile-banner.svg" alt="YeandAmen — software and security research" width="100%" />
 </p>
 
-I’m **Alfredrick**, also known as **YeandAmen**. I build software and research security in AI systems and smart contracts.
+I’m **Alfredrick**, also known as **YeandAmen**. I build software and research security in code and AI systems.
 
 [HackenProof](https://hackenproof.com/hackers/YeandAmen) &nbsp; / &nbsp; [X](https://x.com/yeandamen) &nbsp; / &nbsp; [Telegram](https://t.me/yeandamen)
 
