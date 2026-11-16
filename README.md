@@ -1,42 +1,98 @@
-![YeandAmen — Security research · Web3 · AI engineering](assets/yeandamen-banner.svg)
+<p align="center">
+  <img src="assets/yeandamen-banner.svg" alt="YeandAmen — software and security research" width="100%" />
+</p>
 
-I’m Alfredrick, also known as **YeandAmen**. I build software and research security in AI systems and smart contracts.
+I’m **Alfredrick**, also known as **YeandAmen**. I build software and research security in AI systems and smart contracts.
 
-[HackenProof](https://hackenproof.com/hackers/YeandAmen) · [X](https://x.com/yeandamen) · [Telegram](https://t.me/yeandamen) · [GitHub](https://github.com/YeandAmen)
+[HackenProof](https://hackenproof.com/hackers/YeandAmen) &nbsp; / &nbsp; [X](https://x.com/yeandamen) &nbsp; / &nbsp; [Telegram](https://t.me/yeandamen)
 
-## Things I build
+<br />
 
-Here’s what I’ve been building.
+## Selected work
 
-| Project | What it does |
-| :--- | :--- |
-| **Tinker** | I got tired of copying prompts, generating images and assembling YouTube videos by hand. Tinker brings the script, characters, scenes and export into one studio, with a Chrome extension to handle image generation through Google Flow. |
-| **Reclaim** | Compares retainer contracts with invoices to find missing bills, underbilling and overdue balances. Each finding includes the clause and calculation behind it, so someone can check the evidence before acting. |
-| **Idea Economy** | A place to publish original ideas, set usage terms and work with someone who wants to build them. I’m developing pricing around the views and likes an idea earns, with a 15-day window and a spending cap agreed by the buyer. |
-| **Axil** | A flight-price tool for comparing fares, following routes and tracking price changes. Search, history and alerts are built; live flight-provider access is still being set up. |
-| **Underdog** | Helps office teams see who has access to their systems and investigate suspicious activity. Access checks, alerts, evidence and reports sit in the same workspace. |
-| **Radwave** | Collects jobs, scholarships, grants, fellowships and other opportunities from scattered sources. People can search them, keep a shortlist and track deadlines. It also includes the ingestion work from my earlier X Opportunity Scraper. |
-| **Sinnogram** | Plans the order of stops around Abuja to cut down on backtracking. It compares driving routes, keeps an itinerary and lets you open each leg in your maps app. |
-| **SOC Playground** | A Splunk lab for practising attack detection using Windows and Kali telemetry. It includes attack simulations, detections and a console for following the traces. |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Tinker</h3>
+<p><sub>VIDEO PRODUCTION</sub></p>
+<p>I got tired of copying prompts and assembling YouTube videos by hand. Tinker puts scripts, characters, scenes and video exports in one studio. A Chrome extension handles image generation through Google Flow.</p>
+</td>
+<td width="50%" valign="top">
+<h3>Reclaim</h3>
+<p><sub>CONTRACTS &amp; BILLING</sub></p>
+<p>Compares retainer contracts with invoices to find missing bills, underbilling and overdue balances. Each finding shows the clause and calculation behind it, so someone can check the evidence before acting.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Idea Economy</h3>
+<p><sub>IDEAS &amp; LICENSING</sub></p>
+<p>A place to publish original ideas, set usage terms and find someone to build them. I’m developing pricing around views and likes, measured over 15 days with a buyer-agreed spending cap.</p>
+</td>
+<td width="50%" valign="top">
+<h3>Axil</h3>
+<p><sub>FLIGHT PRICES</sub></p>
+<p>Compares fares, follows routes and tracks price changes. Search, price history and alerts are built. Live flight-provider access is still being set up.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Underdog</h3>
+<p><sub>ACCESS &amp; THREAT INVESTIGATION</sub></p>
+<p>Helps office teams see who has access to their systems and investigate suspicious activity. Access checks, alerts, evidence and reports sit in the same workspace.</p>
+</td>
+<td width="50%" valign="top">
+<h3>Radwave</h3>
+<p><sub>OPPORTUNITY SEARCH</sub></p>
+<p>Collects jobs, scholarships, grants and fellowships from scattered sources. Search them, keep a shortlist and track deadlines. It includes the ingestion work from my earlier X Opportunity Scraper.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Sinnogram</h3>
+<p><sub>ROUTE PLANNING</sub></p>
+<p>Plans the order of stops around Abuja to cut down on backtracking. Compare driving routes, keep an itinerary and open each leg in your maps app.</p>
+</td>
+<td width="50%" valign="top">
+<h3>SOC Playground</h3>
+<p><sub>SECURITY LAB</sub></p>
+<p>A Splunk lab for practising attack detection with Windows and Kali telemetry. It includes attack simulations, detections and a console for following the traces.</p>
+</td>
+</tr>
+</table>
 
-## Selected disclosures
+<br />
 
-| Project | Finding | Status | Read more |
-| :--- | :--- | :--- | :--- |
-| **Grok / xAI** | Python startup-hook persistence after execution of an uploaded archive | Fixed — researcher-reported | [Write-up](disclosures/grok-python-startup-persistence/README.md) |
-| **MultiversX** | Unbounded Kad-DHT public-key record storage and memory growth | Fixed in communication library v1.4.1; included in node v2.1.7 | [Report](https://gist.github.com/YeandAmen/fd4431b5b22222dcb3f266dd7464f5a8) · [Fix](https://github.com/multiversx/mx-chain-communication-go/commit/6820c97770587a13f288bb3591028a95101e4b8e) · [PR](https://github.com/multiversx/mx-chain-communication-go/pull/76) |
-| **Osmosis** | Unrecovered panic in MEV bundle processing | Acknowledged; fix private | [Report](https://gist.github.com/YeandAmen/0cbd7a9df6d573c0080854f53cbb3caf) |
+## Security research
 
-### Grok · recorded demonstration
+Selected disclosures from my work on AI systems and blockchain infrastructure.
 
-https://github.com/user-attachments/assets/50032307-699f-472e-ad1b-dfbbdacb85d8
+### Grok / xAI
+
+Python startup-hook persistence after execution of an uploaded archive. **Fixed — researcher-reported.**
+
+[Read the write-up](disclosures/grok-python-startup-persistence/README.md) · [Recorded demonstration](https://github.com/user-attachments/assets/50032307-699f-472e-ad1b-dfbbdacb85d8)
+
+### MultiversX
+
+Unbounded Kad-DHT public-key record storage and memory growth. **Fixed in communication library v1.4.1; included in node v2.1.7.**
+
+[Report](https://gist.github.com/YeandAmen/fd4431b5b22222dcb3f266dd7464f5a8) · [Fix](https://github.com/multiversx/mx-chain-communication-go/commit/6820c97770587a13f288bb3591028a95101e4b8e) · [Pull request](https://github.com/multiversx/mx-chain-communication-go/pull/76)
 
 <details>
-<summary>MultiversX disclosure timeline</summary>
+<summary>Disclosure timeline</summary>
 
 All times UTC. Report gist created **12 August 2026 at 16:17:47**; fix commit dated **14 August 2026 at 13:08:45**; associated PR merged into `main` **7 September 2026 at 07:44:22**. The fix disables value-record operations in both affected DHT discoverers.
 
 </details>
+
+### Osmosis
+
+Unrecovered panic in MEV bundle processing. **Acknowledged; fix private.**
+
+[Read the report](https://gist.github.com/YeandAmen/0cbd7a9df6d573c0080854f53cbb3caf)
+
+<br />
 
 ## Findings portfolio
 
