@@ -1,6 +1,6 @@
 ![YeandAmen — Security research · Web3 · AI engineering](assets/yeandamen-banner.svg)
 
-I’m Alfredrick, also known as **YeandAmen**, founder of Fyield. I build software and research security in AI systems and smart contracts.
+I’m Alfredrick, also known as **YeandAmen**. I build software and research security in AI systems and smart contracts.
 
 [HackenProof](https://hackenproof.com/hackers/YeandAmen) · [X](https://x.com/yeandamen) · [Telegram](https://t.me/yeandamen) · [GitHub](https://github.com/YeandAmen)
 
@@ -10,7 +10,6 @@ Here’s what I’ve been building.
 
 | Project | What it does |
 | :--- | :--- |
-| **Fyield** | We visit farms and keep verified records of production, costs, sales and repayment. The aim is to give lenders a clearer picture of a farmer’s business. We’re preparing to fund our pilot farmers ourselves and follow the results across seasons. |
 | **Tinker** | I got tired of copying prompts, generating images and assembling YouTube videos by hand. Tinker brings the script, characters, scenes and export into one studio, with a Chrome extension to handle image generation through Google Flow. |
 | **Reclaim** | Compares retainer contracts with invoices to find missing bills, underbilling and overdue balances. Each finding includes the clause and calculation behind it, so someone can check the evidence before acting. |
 | **Idea Economy** | A place to publish original ideas, set usage terms and work with someone who wants to build them. I’m developing pricing around the views and likes an idea earns, with a 15-day window and a spending cap agreed by the buyer. |
