@@ -1,8 +1,25 @@
 ![YeandAmen — Security research · Web3 · AI engineering](assets/yeandamen-banner.svg)
 
-I'm **YeandAmen**. I research security across AI systems and Web3, build useful software, and share what I learn.
+I’m Alfredrick, also known as **YeandAmen**, founder of Fyield. I build software and research security in AI systems and smart contracts.
 
 [HackenProof](https://hackenproof.com/hackers/YeandAmen) · [X](https://x.com/yeandamen) · [Telegram](https://t.me/yeandamen) · [GitHub](https://github.com/YeandAmen)
+
+## Things I build
+
+Here’s what I’ve been building.
+
+| Project | What it does |
+| :--- | :--- |
+| **Fyield** | We visit farms and keep verified records of production, costs, sales and repayment. The aim is to give lenders a clearer picture of a farmer’s business. We’re preparing to fund our pilot farmers ourselves and follow the results across seasons. |
+| **Tinker** | I got tired of copying prompts, generating images and assembling YouTube videos by hand. Tinker brings the script, characters, scenes and export into one studio, with a Chrome extension to handle image generation through Google Flow. |
+| **Reclaim** | Compares retainer contracts with invoices to find missing bills, underbilling and overdue balances. Each finding includes the clause and calculation behind it, so someone can check the evidence before acting. |
+| **Idea Economy** | A place to publish original ideas, set usage terms and work with someone who wants to build them. I’m developing pricing around the views and likes an idea earns, with a 15-day window and a spending cap agreed by the buyer. |
+| **Axil** | A flight-price tool for comparing fares, following routes and tracking price changes. Search, history and alerts are built; live flight-provider access is still being set up. |
+| **Underdog** | Helps office teams see who has access to their systems and investigate suspicious activity. Access checks, alerts, evidence and reports sit in the same workspace. |
+| **Radwave** | Collects jobs, scholarships, grants, fellowships and other opportunities from scattered sources. People can search them, keep a shortlist and track deadlines. It also includes the ingestion work from my earlier X Opportunity Scraper. |
+| **Sinnogram** | Plans the order of stops around Abuja to cut down on backtracking. It compares driving routes, keeps an itinerary and lets you open each leg in your maps app. |
+| **ALPHA DUKE** | A toolkit I use for smart contract research. It gathers contract code and context, screens for vulnerability patterns and prepares material for deeper analysis and exploit testing. |
+| **SOC Playground** | A Splunk lab for practising attack detection using Windows and Kali telemetry. It includes attack simulations, detections and a console for following the traces. |
 
 ## Selected disclosures
 
@@ -24,6 +41,8 @@ All times UTC. Report gist created **12 August 2026 at 16:17:47**; fix commit da
 </details>
 
 ## Findings portfolio
+
+I also document smart contract vulnerabilities found through group research on protocols and DeFi systems.
 
 | Total | Critical | High | Medium | Low | Info | Unclassified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -74,19 +93,3 @@ Profile: https://hackenproof.com/hackers/YeandAmen
 Private audit details are summarized to respect confidentiality.
 
 </details>
-
-## Things I build
-
-I build tools for problems I run into: repetitive YouTube work, scattered opportunities, trips across Abuja, and making security easier to understand.
-
-| Project | Why I built it |
-| :--- | :--- |
-| [Tinker](https://tinker-video.vercel.app) | Easier YouTube video automation. I got tired of copying prompts, generating images, keeping characters consistent, and assembling everything manually—so I built a studio and Chrome extension to handle the repetitive work, from script and scenes to a finished video. |
-| [Underdog](https://github.com/YeandAmen/underdog) · [Demo](https://underdog-fyield1.vercel.app) | Helps office teams understand who has access, spot suspicious activity, and investigate threats. Accounts, access checks, alerts, evidence, and AI reports come together in one workspace. |
-| [Sinnogram](https://github.com/YeandAmen/sinnogram) · [Try it](https://sinnogram.vercel.app) | Plans a better order for stops around Abuja, so errands mean less backtracking. Compare driving routes, keep an itinerary, and open each leg in your maps app. |
-| [Radwave](https://github.com/YeandAmen/radwave) · [Try it](https://radwave.vercel.app) | Brings jobs, scholarships, grants, fellowships, and other opportunities into one searchable workspace, with a globe explorer, shortlists, deadlines, and sources from LinkedIn, RSS, publishers, and X. |
-| [SOC Playground](https://github.com/YeandAmen/SOC-Playground) | A reproducible Splunk security lab for practising attack detection with Windows and Kali telemetry, simulations, and a live trace console. |
-| [X Opportunity Scraper](https://github.com/YeandAmen/X) | My original Go service for finding opportunities on Twitter/X, with an API and email digests. Its ingestion workflow is now part of Radwave. |
-| [Audit Findings](https://github.com/YeandAmen/Audit-Findings-) | Shared smart contract security research documenting vulnerabilities found through group analysis of protocols and DeFi systems. |
-
-[Explore my repositories →](https://github.com/YeandAmen?tab=repositories)
