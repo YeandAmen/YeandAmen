@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/yeandamen-banner.svg" alt="YeandAmen — software and security research" width="100%" />
+  <img src="assets/profile-banner.svg" alt="YeandAmen — software and security research" width="100%" />
 </p>
 
 I’m **Alfredrick**, also known as **YeandAmen**. I build software and research security in AI systems and smart contracts.
